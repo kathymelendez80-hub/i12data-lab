@@ -20,4 +20,4 @@ This repository hosts experiments, datasets, and prototype scripts for analyzing
 ## ⚙️ Setup
 Clone the repo:
 ```bash
-git clone https://github.com/YOURUSERNAME/i12data-lab.git
+git clone https://github.com/kathymelendez/i12data-lab.git
